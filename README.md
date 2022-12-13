@@ -25,7 +25,7 @@ Users should be able to:
 
 ### Screenshot
 
-<img src='./assets/finallook.jpg'/>
+<img src='./assets/finallook.png'/>
 
 ## My process
 
